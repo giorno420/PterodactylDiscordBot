@@ -13,5 +13,6 @@ async def on_ready():
     await BOT.change_presence(activity=Game(name="Minecraft"))
     print(f'bot online')
 
+BOT.load_extension('cogs.pterodiscord')
                                  
 BOT.run(configdata["bot_token"])
