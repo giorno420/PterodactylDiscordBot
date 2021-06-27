@@ -1,0 +1,6 @@
+{
+    "bot_token": "Your Discord bot token",
+    "ptero_server_id": "Your Pterodactyl server ID",
+    "ptero_api_key": "Your Pterodactyl server API key",
+    "server_address": "Your Pterodactyl server address"
+}
